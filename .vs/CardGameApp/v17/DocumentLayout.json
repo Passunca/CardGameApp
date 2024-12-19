@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|d:\\projects\\.net\\mini projects\\inheritanceminiprojectapp\\cardgameapp\\cardgameapp\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|d:\\projects\\.net\\mini projects\\inheritanceminiprojectapp\\cardgameapp\\cardgameapp\\cardgame\\pokerdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\pokerdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|d:\\projects\\.net\\mini projects\\inheritanceminiprojectapp\\cardgameapp\\cardgameapp\\cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|d:\\projects\\.net\\mini projects\\inheritanceminiprojectapp\\cardgameapp\\cardgameapp\\cardgame\\blackjackdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\blackjackdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|d:\\projects\\.net\\mini projects\\inheritanceminiprojectapp\\cardgameapp\\cardgameapp\\cardgame\\models\\playingcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC2E99C-03E4-421A-A7C2-7177F80D7990}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\models\\playingcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokerDeck.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\PokerDeck.cs",
+              "RelativeDocumentMoniker": "CardGame\\PokerDeck.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\PokerDeck.cs",
+              "RelativeToolTip": "CardGame\\PokerDeck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:49:28.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlackJackDeck.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\BlackJackDeck.cs",
+              "RelativeDocumentMoniker": "CardGame\\BlackJackDeck.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\BlackJackDeck.cs",
+              "RelativeToolTip": "CardGame\\BlackJackDeck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:49:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayingCardModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\Models\\PlayingCardModel.cs",
+              "RelativeDocumentMoniker": "CardGame\\Models\\PlayingCardModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\Models\\PlayingCardModel.cs",
+              "RelativeToolTip": "CardGame\\Models\\PlayingCardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:44:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\Deck.cs",
+              "RelativeDocumentMoniker": "CardGame\\Deck.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\Deck.cs",
+              "RelativeToolTip": "CardGame\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:43:31.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\Program.cs",
+              "RelativeDocumentMoniker": "CardGame\\Program.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Mini Projects\\InheritanceMiniProjectApp\\CardGameApp\\CardGameApp\\CardGame\\Program.cs",
+              "RelativeToolTip": "CardGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:07:01.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
